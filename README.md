@@ -2,8 +2,9 @@
 - 👀 I’m interested in knowing new things.
 - 🌱 I’m currently working in ETL, Data insights, Business Intelligence etc technologies
 - 📫 How to reach me 
--     Mail     : akhilendraalle.5@gmail.com
--     LinkedIn : https://www.linkedin.com/in/akhilendra-alle-62251312a/
+ 
+      * Mail     : akhilendraalle.5@gmail.com
+      * LinkedIn : https://www.linkedin.com/in/akhilendra-alle-62251312a/
 
 <!---
 AkhilendraAlle/AkhilendraAlle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
