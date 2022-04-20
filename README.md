@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AkhilendraAlle
 - 👀 I’m interested in knowing new things.
-- 🌱 I’m currently learning ETL technologies
+- 🌱 I’m currently working in ETL, Data insights, Business Intelligence etc technologies
 - 📫 How to reach me akhilendraalle.5@gmail.com
 
 <!---
